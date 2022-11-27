@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf) format('truetype');
+}
+*{
+    padding: 0px;
+    margin: auto;
+    font-family: 'Inter';
+}
+
+nav{
+
+}
+
+nav a{
+    text-decoration: none;
+    text-align: right;
+    justify-content: end;
+}
